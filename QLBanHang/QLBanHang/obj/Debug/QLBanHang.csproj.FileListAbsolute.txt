@@ -1,0 +1,11 @@
+C:\Users\Tranvantu\source\repos\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+C:\Users\Tranvantu\source\repos\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+C:\Users\Tranvantu\source\repos\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+C:\Users\Tranvantu\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.AssemblyReference.cache
+C:\Users\Tranvantu\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tranvantu\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmMatHang.resources
+C:\Users\Tranvantu\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+C:\Users\Tranvantu\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+C:\Users\Tranvantu\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Tranvantu\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+C:\Users\Tranvantu\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
